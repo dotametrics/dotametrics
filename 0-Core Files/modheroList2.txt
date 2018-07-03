@@ -1,0 +1,218 @@
+(lp1
+S'Abaddon'
+p2
+aS'Alchemist'
+p3
+aS'Ancient Apparition'
+p4
+aS'Anti-Mage'
+p5
+aS'Axe'
+p6
+aS'Bane'
+p7
+aS'Batrider'
+p8
+aS'Beastmaster'
+p9
+aS'Bloodseeker'
+p10
+aS'Bounty Hunter'
+p11
+aS'Brewmaster'
+p12
+aS'Bristleback'
+p13
+aS'Broodmother'
+p14
+aS'Centaur Warrunner'
+p15
+aS'Chaos Knight'
+p16
+aS'Chen'
+p17
+aS'Clinkz'
+p18
+aS'Clockwerk'
+p19
+aS'Crystal Maiden'
+p20
+aS'Dark Seer'
+p21
+aS'Dazzle'
+p22
+aS'Death Prophet'
+p23
+aS'Disruptor'
+p24
+aS'Doom Bringer'
+p25
+aS'Dragon Knight'
+p26
+aS'Drow Ranger'
+p27
+aS'Earth Spirit'
+p28
+aS'Earthshaker'
+p29
+aS'Elder Titan'
+p30
+aS'Ember Spirit'
+p31
+aS'Enchantress'
+p32
+aS'Enigma'
+p33
+aS'Faceless Void'
+p34
+aS'Gyrocopter'
+p35
+aS'Huskar'
+p36
+aS'Invoker'
+p37
+aS'Jakiro'
+p38
+aS'Juggernaut'
+p39
+aS'Keeper of the Light'
+p40
+aS'Kunkka'
+p41
+aS'Legion Commander'
+p42
+aS'Leshrac'
+p43
+aS'Lich'
+p44
+aS'Lifestealer'
+p45
+aS'Lina'
+p46
+aS'Lion'
+p47
+aS'Lone Druid'
+p48
+aS'Luna'
+p49
+aS'Lycanthrope'
+p50
+aS'Magnus'
+p51
+aS'Medusa'
+p52
+aS'Meepo'
+p53
+aS'Mirana'
+p54
+aS'Morphling'
+p55
+aS'Naga Siren'
+p56
+aS"Nature's Prophet"
+p57
+aS'Necrolyte'
+p58
+aS'Night Stalker'
+p59
+aS'Nyx Assassin'
+p60
+aS'Ogre Magi'
+p61
+aS'Omniknight'
+p62
+aS'Outworld Destroyer'
+p63
+aS'Phantom Assassin'
+p64
+aS'Phantom Lancer'
+p65
+aS'Phoenix'
+p66
+aS'Puck'
+p67
+aS'Pudge'
+p68
+aS'Pugna'
+p69
+aS'Queen of Pain'
+p70
+aS'Razor'
+p71
+aS'Riki'
+p72
+aS'Rubick'
+p73
+aS'Sand King'
+p74
+aS'Shadow Demon'
+p75
+aS'Shadow Fiend'
+p76
+aS'Shadow Shaman'
+p77
+aS'Silencer'
+p78
+aS'Skeleton King'
+p79
+aS'Skywrath Mage'
+p80
+aS'Slardar'
+p81
+aS'Slark'
+p82
+aS'Sniper'
+p83
+aS'Spectre'
+p84
+aS'Spirit Breaker'
+p85
+aS'Storm Spirit'
+p86
+aS'Sven'
+p87
+aS'Techies'
+p88
+aS'Templar Assassin'
+p89
+aS'Terrorblade'
+p90
+aS'Tidehunter'
+p91
+aS'Timbersaw'
+p92
+aS'Tinker'
+p93
+aS'Tiny'
+p94
+aS'Treant Protector'
+p95
+aS'Troll Warlord'
+p96
+aS'Tusk'
+p97
+aS'Undying'
+p98
+aS'Ursa'
+p99
+aS'Vengeful Spirit'
+p100
+aS'Venomancer'
+p101
+aS'Viper'
+p102
+aS'Visage'
+p103
+aS'Warlock'
+p104
+aS'Weaver'
+p105
+aS'Windrunner'
+p106
+aS'Wisp'
+p107
+aS'Witch Doctor'
+p108
+aS'Zeus'
+p109
+a.
