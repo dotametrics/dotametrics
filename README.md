@@ -1,5 +1,7 @@
 # dotametrics
 
+read this in raw for proper formatting
+
 0-Core Files
   d2slib -- Not mine, modified from the original: https://dev.dota2.com/showthread.php?t=48664
             Used to interact with the Dota2 API
