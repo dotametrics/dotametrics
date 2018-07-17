@@ -25,7 +25,7 @@ except:
 
 # Put your steam API key here
 global apiKey
-apiKey = "1937FFBB27B49CBCF2FDE14A94A65100"
+apiKey = ""
 
 # Function used to convert a single slot number to
 # a team and team position. Returns (team, position)
